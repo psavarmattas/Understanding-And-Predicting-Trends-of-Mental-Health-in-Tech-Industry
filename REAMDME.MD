@@ -26,4 +26,4 @@ Points to keep in mind when working with a machine learning model
 
 ## UNDER-DEVELOPMENT:
 
-The project will be updated with more and more changes on a frequent basis due to it being a part of a research paper.
+The project will be updated with more and more changes on a frequent basis due to it being a part of a research paper. 
