@@ -3,7 +3,7 @@
 
 ## **THIS RESEARCH PAPER WORK USING IT WITHOUT CONSENT WILL BE TAKEN AS PLAGIRISM WITH LEGAL CONSEQUENCES**
 
-A stroke is an interruption of the blood supply to any part of the brain. If blood flow was stopped for longer than a few seconds and the brain cannot get blood and oxygen, brain cells can die, and the abilities controlled by that area of the brain are lost. In this Notebook we will use some features to see wether we will be able to predict the stoke or not? This is just a theoretical Machine Learning Model that will analyze the data and determine where the stroke can occur.
+Mental health has become a huge issue in recent times and the tech industry is no exception. This research paper aims to understand the trends of mental health in the tech industry and predict the trends of mental health in the tech industry. The research paper is divided into many parts that are in workings and will be updated on a frequent basis.
 
 ## Basic Outline For A Machine Learning Model:
 
